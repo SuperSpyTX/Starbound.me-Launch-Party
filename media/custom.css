@@ -1,0 +1,14 @@
+.jumbotron {
+text-align: center;
+color: #fff;
+background-color: inherit;
+}
+
+.progress {
+background-color: inherit;
+}
+
+body {
+background-image: url("space-wallpaper-12.jpg");
+text-shadow: 0 1px 3px rgba(0,0,0,0.5)
+}
